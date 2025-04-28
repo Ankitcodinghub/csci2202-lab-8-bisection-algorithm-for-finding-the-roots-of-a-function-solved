@@ -1,0 +1,1 @@
+# csci2202-lab-8-bisection-algorithm-for-finding-the-roots-of-a-function-solved
